@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/satyabratasaha-me/my-profile.svg?branch=master)](https://travis-ci.org/satyabratasaha-me/my-profile)
+[![Build Status](https://travis-ci.org/satyabratasaha-me/expense-management.svg?branch=master)](https://travis-ci.org/satyabratasaha-me/expense-management)
 
 
 # APP
