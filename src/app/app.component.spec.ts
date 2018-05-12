@@ -25,6 +25,6 @@ describe('AppComponent', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
-    expect(compiled.querySelector('h1').textContent).toContain('Hello, this is Satyabrata !');
+    expect(compiled.querySelector('h1').textContent).toContain('Hello, this is Satyabrata. The site is under construction..!');
   }));
 });
